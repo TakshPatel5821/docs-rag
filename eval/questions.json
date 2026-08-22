@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does Apple say about its reliance on single or limited source suppliers?",
+    "expected_source": "AAPL_10-K_2025-10-31.txt",
+    "expected_keywords": ["single or limited source"]
+  },
+  {
+    "question": "Which outsourcing partners does Apple depend on to manufacture its products, and where are they located?",
+    "expected_source": "AAPL_10-K_2025-10-31.txt",
+    "expected_keywords": ["outsourcing partners"]
+  },
+  {
+    "question": "How much did Apple spend on research and development during the fiscal year?",
+    "expected_source": "AAPL_10-K_2025-10-31.txt",
+    "expected_keywords": ["research and development"]
+  },
+  {
+    "question": "How does Microsoft recognize revenue for cloud services and software licences?",
+    "expected_source": "MSFT_10-K_2026-07-29.txt",
+    "expected_keywords": ["revenue recognition", "revenue is recognized"]
+  },
+  {
+    "question": "What does Microsoft report for capital expenditures on datacenter and AI infrastructure?",
+    "expected_source": "MSFT_10-K_2026-07-29.txt",
+    "expected_keywords": ["capital expenditures"]
+  },
+  {
+    "question": "What does Microsoft disclose about cybersecurity risk management and board oversight?",
+    "expected_source": "MSFT_10-K_2026-07-29.txt",
+    "expected_keywords": ["cybersecurity"]
+  },
+  {
+    "question": "What are JPMorgan Chase's regulatory capital requirements under Basel III?",
+    "expected_source": "JPM_10-K_2026-02-13.txt",
+    "expected_keywords": ["Basel III"]
+  },
+  {
+    "question": "How does JPMorgan Chase determine its allowance for credit losses?",
+    "expected_source": "JPM_10-K_2026-02-13.txt",
+    "expected_keywords": ["allowance for credit losses"]
+  },
+  {
+    "question": "How does Bank of America describe liquidity risk management and its sources of funding?",
+    "expected_source": "BAC_10-K_2026-02-25.txt",
+    "expected_keywords": ["liquidity risk"]
+  },
+  {
+    "question": "What does Bank of America report for net interest income?",
+    "expected_source": "BAC_10-K_2026-02-25.txt",
+    "expected_keywords": ["net interest income"]
+  }
+]

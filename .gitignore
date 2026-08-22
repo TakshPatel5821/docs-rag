@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+# The corpus IS committed: SEC filings are public records, they are only a few
+# MB as text, and a clean clone should be able to run the evaluation without
+# hitting EDGAR first.
